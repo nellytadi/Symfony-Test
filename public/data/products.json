@@ -1,0 +1,605 @@
+{
+  "total": 100,
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 5.75,
+      "category": "Pet Supplies"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 6.5,
+      "category": "Fitness Equipment"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 7.25,
+      "category": "Gadgets & Electronics"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "price": 8.0,
+      "category": "Books & Stationery"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "price": 8.75,
+      "category": "Beauty & Skincare"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "price": 9.5,
+      "category": "Snacks & Gourmet Foods"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "price": 10.25,
+      "category": "Gardening Tools"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "price": 11.0,
+      "category": "DIY & Crafts"
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "price": 11.75,
+      "category": "Travel Accessories"
+    },
+    {
+      "id": 10,
+      "name": "Product 10",
+      "price": 12.5,
+      "category": "Baby Products"
+    },
+    {
+      "id": 11,
+      "name": "Product 11",
+      "price": 13.25,
+      "category": "Sustainable Living"
+    },
+    {
+      "id": 12,
+      "name": "Product 12",
+      "price": 14.0,
+      "category": "Toys & Games"
+    },
+    {
+      "id": 13,
+      "name": "Product 13",
+      "price": 14.75,
+      "category": "Vintage & Collectibles"
+    },
+    {
+      "id": 14,
+      "name": "Product 14",
+      "price": 15.5,
+      "category": "Outdoor & Camping Gear"
+    },
+    {
+      "id": 15,
+      "name": "Product 15",
+      "price": 16.25,
+      "category": "Car Accessories"
+    },
+    {
+      "id": 16,
+      "name": "Product 16",
+      "price": 17.0,
+      "category": "Subscription Boxes"
+    },
+    {
+      "id": 17,
+      "name": "Product 17",
+      "price": 17.75,
+      "category": "Health & Wellness"
+    },
+    {
+      "id": 18,
+      "name": "Product 18",
+      "price": 18.5,
+      "category": "Fashion Accessories"
+    },
+    {
+      "id": 19,
+      "name": "Product 19",
+      "price": 19.25,
+      "category": "Office & Productivity Tools"
+    },
+    {
+      "id": 20,
+      "name": "Product 20",
+      "price": 20.0,
+      "category": "Home Decor"
+    },
+    {
+      "id": 21,
+      "name": "Product 21",
+      "price": 20.75,
+      "category": "Pet Supplies"
+    },
+    {
+      "id": 22,
+      "name": "Product 22",
+      "price": 21.5,
+      "category": "Fitness Equipment"
+    },
+    {
+      "id": 23,
+      "name": "Product 23",
+      "price": 22.25,
+      "category": "Gadgets & Electronics"
+    },
+    {
+      "id": 24,
+      "name": "Product 24",
+      "price": 23.0,
+      "category": "Books & Stationery"
+    },
+    {
+      "id": 25,
+      "name": "Product 25",
+      "price": 23.75,
+      "category": "Beauty & Skincare"
+    },
+    {
+      "id": 26,
+      "name": "Product 26",
+      "price": 24.5,
+      "category": "Snacks & Gourmet Foods"
+    },
+    {
+      "id": 27,
+      "name": "Product 27",
+      "price": 25.25,
+      "category": "Gardening Tools"
+    },
+    {
+      "id": 28,
+      "name": "Product 28",
+      "price": 26.0,
+      "category": "DIY & Crafts"
+    },
+    {
+      "id": 29,
+      "name": "Product 29",
+      "price": 26.75,
+      "category": "Travel Accessories"
+    },
+    {
+      "id": 30,
+      "name": "Product 30",
+      "price": 27.5,
+      "category": "Baby Products"
+    },
+    {
+      "id": 31,
+      "name": "Product 31",
+      "price": 28.25,
+      "category": "Sustainable Living"
+    },
+    {
+      "id": 32,
+      "name": "Product 32",
+      "price": 29.0,
+      "category": "Toys & Games"
+    },
+    {
+      "id": 33,
+      "name": "Product 33",
+      "price": 29.75,
+      "category": "Vintage & Collectibles"
+    },
+    {
+      "id": 34,
+      "name": "Product 34",
+      "price": 30.5,
+      "category": "Outdoor & Camping Gear"
+    },
+    {
+      "id": 35,
+      "name": "Product 35",
+      "price": 31.25,
+      "category": "Car Accessories"
+    },
+    {
+      "id": 36,
+      "name": "Product 36",
+      "price": 32.0,
+      "category": "Subscription Boxes"
+    },
+    {
+      "id": 37,
+      "name": "Product 37",
+      "price": 32.75,
+      "category": "Health & Wellness"
+    },
+    {
+      "id": 38,
+      "name": "Product 38",
+      "price": 33.5,
+      "category": "Fashion Accessories"
+    },
+    {
+      "id": 39,
+      "name": "Product 39",
+      "price": 34.25,
+      "category": "Office & Productivity Tools"
+    },
+    {
+      "id": 40,
+      "name": "Product 40",
+      "price": 35.0,
+      "category": "Home Decor"
+    },
+    {
+      "id": 41,
+      "name": "Product 41",
+      "price": 35.75,
+      "category": "Pet Supplies"
+    },
+    {
+      "id": 42,
+      "name": "Product 42",
+      "price": 36.5,
+      "category": "Fitness Equipment"
+    },
+    {
+      "id": 43,
+      "name": "Product 43",
+      "price": 37.25,
+      "category": "Gadgets & Electronics"
+    },
+    {
+      "id": 44,
+      "name": "Product 44",
+      "price": 38.0,
+      "category": "Books & Stationery"
+    },
+    {
+      "id": 45,
+      "name": "Product 45",
+      "price": 38.75,
+      "category": "Beauty & Skincare"
+    },
+    {
+      "id": 46,
+      "name": "Product 46",
+      "price": 39.5,
+      "category": "Snacks & Gourmet Foods"
+    },
+    {
+      "id": 47,
+      "name": "Product 47",
+      "price": 40.25,
+      "category": "Gardening Tools"
+    },
+    {
+      "id": 48,
+      "name": "Product 48",
+      "price": 41.0,
+      "category": "DIY & Crafts"
+    },
+    {
+      "id": 49,
+      "name": "Product 49",
+      "price": 41.75,
+      "category": "Travel Accessories"
+    },
+    {
+      "id": 50,
+      "name": "Product 50",
+      "price": 42.5,
+      "category": "Baby Products"
+    },
+    {
+      "id": 51,
+      "name": "Product 51",
+      "price": 43.25,
+      "category": "Sustainable Living"
+    },
+    {
+      "id": 52,
+      "name": "Product 52",
+      "price": 44.0,
+      "category": "Toys & Games"
+    },
+    {
+      "id": 53,
+      "name": "Product 53",
+      "price": 44.75,
+      "category": "Vintage & Collectibles"
+    },
+    {
+      "id": 54,
+      "name": "Product 54",
+      "price": 45.5,
+      "category": "Outdoor & Camping Gear"
+    },
+    {
+      "id": 55,
+      "name": "Product 55",
+      "price": 46.25,
+      "category": "Car Accessories"
+    },
+    {
+      "id": 56,
+      "name": "Product 56",
+      "price": 47.0,
+      "category": "Subscription Boxes"
+    },
+    {
+      "id": 57,
+      "name": "Product 57",
+      "price": 47.75,
+      "category": "Health & Wellness"
+    },
+    {
+      "id": 58,
+      "name": "Product 58",
+      "price": 48.5,
+      "category": "Fashion Accessories"
+    },
+    {
+      "id": 59,
+      "name": "Product 59",
+      "price": 49.25,
+      "category": "Office & Productivity Tools"
+    },
+    {
+      "id": 60,
+      "name": "Product 60",
+      "price": 50.0,
+      "category": "Home Decor"
+    },
+    {
+      "id": 61,
+      "name": "Product 61",
+      "price": 50.75,
+      "category": "Pet Supplies"
+    },
+    {
+      "id": 62,
+      "name": "Product 62",
+      "price": 51.5,
+      "category": "Fitness Equipment"
+    },
+    {
+      "id": 63,
+      "name": "Product 63",
+      "price": 52.25,
+      "category": "Gadgets & Electronics"
+    },
+    {
+      "id": 64,
+      "name": "Product 64",
+      "price": 53.0,
+      "category": "Books & Stationery"
+    },
+    {
+      "id": 65,
+      "name": "Product 65",
+      "price": 53.75,
+      "category": "Beauty & Skincare"
+    },
+    {
+      "id": 66,
+      "name": "Product 66",
+      "price": 54.5,
+      "category": "Snacks & Gourmet Foods"
+    },
+    {
+      "id": 67,
+      "name": "Product 67",
+      "price": 55.25,
+      "category": "Gardening Tools"
+    },
+    {
+      "id": 68,
+      "name": "Product 68",
+      "price": 56.0,
+      "category": "DIY & Crafts"
+    },
+    {
+      "id": 69,
+      "name": "Product 69",
+      "price": 56.75,
+      "category": "Travel Accessories"
+    },
+    {
+      "id": 70,
+      "name": "Product 70",
+      "price": 57.5,
+      "category": "Baby Products"
+    },
+    {
+      "id": 71,
+      "name": "Product 71",
+      "price": 58.25,
+      "category": "Sustainable Living"
+    },
+    {
+      "id": 72,
+      "name": "Product 72",
+      "price": 59.0,
+      "category": "Toys & Games"
+    },
+    {
+      "id": 73,
+      "name": "Product 73",
+      "price": 59.75,
+      "category": "Vintage & Collectibles"
+    },
+    {
+      "id": 74,
+      "name": "Product 74",
+      "price": 60.5,
+      "category": "Outdoor & Camping Gear"
+    },
+    {
+      "id": 75,
+      "name": "Product 75",
+      "price": 61.25,
+      "category": "Car Accessories"
+    },
+    {
+      "id": 76,
+      "name": "Product 76",
+      "price": 62.0,
+      "category": "Subscription Boxes"
+    },
+    {
+      "id": 77,
+      "name": "Product 77",
+      "price": 62.75,
+      "category": "Health & Wellness"
+    },
+    {
+      "id": 78,
+      "name": "Product 78",
+      "price": 63.5,
+      "category": "Fashion Accessories"
+    },
+    {
+      "id": 79,
+      "name": "Product 79",
+      "price": 64.25,
+      "category": "Office & Productivity Tools"
+    },
+    {
+      "id": 80,
+      "name": "Product 80",
+      "price": 65.0,
+      "category": "Home Decor"
+    },
+    {
+      "id": 81,
+      "name": "Product 81",
+      "price": 65.75,
+      "category": "Pet Supplies"
+    },
+    {
+      "id": 82,
+      "name": "Product 82",
+      "price": 66.5,
+      "category": "Fitness Equipment"
+    },
+    {
+      "id": 83,
+      "name": "Product 83",
+      "price": 67.25,
+      "category": "Gadgets & Electronics"
+    },
+    {
+      "id": 84,
+      "name": "Product 84",
+      "price": 68.0,
+      "category": "Books & Stationery"
+    },
+    {
+      "id": 85,
+      "name": "Product 85",
+      "price": 68.75,
+      "category": "Beauty & Skincare"
+    },
+    {
+      "id": 86,
+      "name": "Product 86",
+      "price": 69.5,
+      "category": "Snacks & Gourmet Foods"
+    },
+    {
+      "id": 87,
+      "name": "Product 87",
+      "price": 70.25,
+      "category": "Gardening Tools"
+    },
+    {
+      "id": 88,
+      "name": "Product 88",
+      "price": 71.0,
+      "category": "DIY & Crafts"
+    },
+    {
+      "id": 89,
+      "name": "Product 89",
+      "price": 71.75,
+      "category": "Travel Accessories"
+    },
+    {
+      "id": 90,
+      "name": "Product 90",
+      "price": 72.5,
+      "category": "Baby Products"
+    },
+    {
+      "id": 91,
+      "name": "Product 91",
+      "price": 73.25,
+      "category": "Sustainable Living"
+    },
+    {
+      "id": 92,
+      "name": "Product 92",
+      "price": 74.0,
+      "category": "Toys & Games"
+    },
+    {
+      "id": 93,
+      "name": "Product 93",
+      "price": 74.75,
+      "category": "Vintage & Collectibles"
+    },
+    {
+      "id": 94,
+      "name": "Product 94",
+      "price": 75.5,
+      "category": "Outdoor & Camping Gear"
+    },
+    {
+      "id": 95,
+      "name": "Product 95",
+      "price": 76.25,
+      "category": "Car Accessories"
+    },
+    {
+      "id": 96,
+      "name": "Product 96",
+      "price": 77.0,
+      "category": "Subscription Boxes"
+    },
+    {
+      "id": 97,
+      "name": "Product 97",
+      "price": 77.75,
+      "category": "Health & Wellness"
+    },
+    {
+      "id": 98,
+      "name": "Product 98",
+      "price": 78.5,
+      "category": "Fashion Accessories"
+    },
+    {
+      "id": 99,
+      "name": "Product 99",
+      "price": 79.25,
+      "category": "Office & Productivity Tools"
+    },
+    {
+      "id": 100,
+      "name": "Product 100",
+      "price": 80.0,
+      "category": "Home Decor"
+    }
+  ]
+}
